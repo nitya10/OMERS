@@ -24,7 +24,7 @@ public class MakemyTrip_Search {
 	  dc.setCapability("appPackage", "com.makemytrip");
 	  dc.setCapability("appActivity", "com.mmt.travel.app.home.ui.SplashActivity");
 	  driver =new RemoteWebDriver(new URL("http://127.0.0.1:4723/wd/hub"),dc);
-	  
+	  //update
   }
 
   @AfterTest
