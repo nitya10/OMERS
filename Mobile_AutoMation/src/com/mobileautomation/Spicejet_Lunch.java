@@ -25,7 +25,7 @@ public class Spicejet_Lunch {
 	  dc.setCapability("appActivity", "com.whatsapp.Main");
 	  
 	  driver = new RemoteWebDriver(new URL("http://127.0.0.1:4723/wd/hub"), dc);
-  
+  //update
   }
 
   @AfterTest
