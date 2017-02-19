@@ -1,0 +1,9 @@
+<suite name="Erp suit">
+<test name="Erp results">
+<classes>
+<class name="Spicejet_Project.Spicejet_pro">
+
+</class>
+</classes>
+</test>
+</suite>
